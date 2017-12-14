@@ -15,7 +15,7 @@
     "test:unit": "jest --config .jestrc.json"
   },
   "dependencies": {
-    "vue": "^2.5.9",
+    "vue": "^2.5.11",
     "vue-clipboard2": "^0.0.8",
     "vue-router": "^3.0.1",
     "vuetify": "^0.17.0"
