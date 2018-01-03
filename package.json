@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
+    "axios-mock-adapter": "^1.10.0",
     "babel-core": "^6.22.1",
     "babel-eslint": "^8.0.2",
     "babel-jest": "^22.0.4",
@@ -60,6 +61,7 @@
     "http-proxy-middleware": "^0.17.3",
     "jest": "^22.0.4",
     "jest-serializer-vue": "^0.3.0",
+    "moxios": "^0.4.0",
     "node-sass": "^4.7.1",
     "opn": "^5.1.0",
     "optimize-css-assets-webpack-plugin": "^3.2.0",
@@ -73,6 +75,7 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
     "url-loader": "^0.6.2",
+    "vee-validate": "^2.0.0-rc.27",
     "vue-jest": "^1.0.3",
     "vue-loader": "^13.5.0",
     "vue-server-renderer": "^2.5.9",
