@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "moment": "^2.19.4",
+    "moment": "^2.21.0",
     "vue": "^2.5.9",
     "vue-clipboard2": "^0.0.8",
     "vue-router": "^3.0.1",
