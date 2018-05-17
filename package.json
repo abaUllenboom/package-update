@@ -76,7 +76,7 @@
     "stylus-loader": "^3.0.1",
     "url-loader": "^0.6.2",
     "vee-validate": "^2.0.0-rc.27",
-    "vue-jest": "^1.0.3",
+    "vue-jest": "^2.6.0",
     "vue-loader": "^13.5.0",
     "vue-server-renderer": "^2.5.9",
     "vue-style-loader": "^3.0.3",
