@@ -45,7 +45,7 @@
     "cssnano": "^3.10.0",
     "eslint": "^4.12.1",
     "eslint-friendly-formatter": "^3.0.0",
-    "eslint-import-resolver-webpack": "^0.8.3",
+    "eslint-import-resolver-webpack": "^0.12.1",
     "eslint-loader": "^1.9.0",
     "eslint-plugin-html": "^4.0.1",
     "eslint-plugin-import": "^2.7.0",
